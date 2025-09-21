@@ -1,6 +1,6 @@
 # OTS-Assessment
 
-1. UML
+##*1. UML*
 
 
 @startuml
@@ -47,7 +47,7 @@ class Movement_Stock {
 }
 
 
-2. ERD
+##*2. ERD*
 
 DROP DATABASE IF EXISTS pharmacy_warehouse;
 
@@ -100,4 +100,4 @@ REFERENCES drug(drug_id)
 
 
 
-3. Java Code
+##*3. Java Code*
