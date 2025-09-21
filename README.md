@@ -1,6 +1,6 @@
 # OTS-Assessment
 
-##*1. UML*
+##1. UML
 
 
 @startuml
