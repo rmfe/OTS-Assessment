@@ -7,11 +7,12 @@
 
 title Pharmacy Warehouse
 
+
 class Drug_Category {
 
-+drug_category_id: String
-
-+name: String
+  +drug_category_id: String
+  
+  +name: String
 
 }
 
